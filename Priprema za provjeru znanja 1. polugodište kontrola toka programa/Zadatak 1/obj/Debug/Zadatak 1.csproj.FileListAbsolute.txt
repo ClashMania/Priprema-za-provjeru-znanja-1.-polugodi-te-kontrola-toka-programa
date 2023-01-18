@@ -1,0 +1,8 @@
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Priprema za provjeru znanja 1. polugodište kontrola toka programa\Zadatak 1\bin\Debug\Zadatak 1.exe.config
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Priprema za provjeru znanja 1. polugodište kontrola toka programa\Zadatak 1\bin\Debug\Zadatak 1.exe
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Priprema za provjeru znanja 1. polugodište kontrola toka programa\Zadatak 1\bin\Debug\Zadatak 1.pdb
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Priprema za provjeru znanja 1. polugodište kontrola toka programa\Zadatak 1\obj\Debug\Zadatak 1.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Priprema za provjeru znanja 1. polugodište kontrola toka programa\Zadatak 1\obj\Debug\Zadatak 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Priprema za provjeru znanja 1. polugodište kontrola toka programa\Zadatak 1\obj\Debug\Zadatak 1.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Priprema za provjeru znanja 1. polugodište kontrola toka programa\Zadatak 1\obj\Debug\Zadatak 1.exe
+C:\Users\Ucenik\Documents\GabrielCondricNIOP\Priprema za provjeru znanja 1. polugodište kontrola toka programa\Zadatak 1\obj\Debug\Zadatak 1.pdb
